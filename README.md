@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PoobalanS
 - 👀 I’m interested to solve real-life problems using software technologies
 - 🌱 I’m currently learning multiple software technologies include machine learning 
-- 💞️ I’m looking to collaborate on people who's trying to make future to others
+- 💞️ I’m looking to collaborate on people who's trying to make future brighter
 - 📫 reach me out through poobalkrish@gmail.com
 
 <!---
